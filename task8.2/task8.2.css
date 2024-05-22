@@ -1,0 +1,56 @@
+body {
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid black;
+  padding: 17px;
+  padding-bottom: 25px;
+}
+
+.search {
+  text-align: center;
+  border: 1px solid black;
+}
+.container {
+  display: grid;
+  grid-template-columns: 110px 80px;
+  padding: 10px;
+}
+.container1 {
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+.box1 {
+  border: 1px solid black;
+}
+img {
+  width: 90px;
+  height: 90px;
+  padding: 5px;
+  border: 1px solid black;
+}
+.Text {
+  margin: 0px;
+  margin-right: -5px;
+  margin-left: -5px;
+}
+.may {
+  margin: 0px;
+  display: inline-block;
+}
+.seats {
+  margin: 0px;
+  display: inline-block;
+  vertical-align: text-bottom;
+  margin-top: 8px;
+}
+.available {
+  margin: 0px;
+  display: inline-block;
+  margin-bottom: 8px;
+}
+.events {
+  margin: 0px;
+  text-align: center;
+}
